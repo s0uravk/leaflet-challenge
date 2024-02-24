@@ -8,6 +8,8 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ![leaflet](https://github.com/s0uravk/leaflet-challenge/assets/144293972/b693515f-5fea-40aa-a8a5-bbafad3471ff)
 
+You can access the pages at ![Earthquakes Visualization](https://s0uravk.github.io/leaflet-challenge/)
+
 **Functions**
 ---
 The data was retrieved using D3 and a geographical map using GeoJson with Leaflet was created using the Earthquake data from  USGS data. it was done in the following steps:
