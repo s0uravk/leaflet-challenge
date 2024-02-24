@@ -8,7 +8,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ![leaflet](https://github.com/s0uravk/leaflet-challenge/assets/144293972/b693515f-5fea-40aa-a8a5-bbafad3471ff)
 
-You can access the pages at ![Earthquakes Visualization](https://s0uravk.github.io/leaflet-challenge/)
+You can access the pages at [Earthquakes Visualization](https://s0uravk.github.io/leaflet-challenge/)
 
 **Functions**
 ---
